@@ -2,3 +2,4 @@ first commit on master
 modify on remote
 modify on local after add SSH KEY
 modify on local test SSH KEY again
+test HEAD
